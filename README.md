@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... School
-- 🌱 I’m currently learning ... Concrete5
+- 🌱 I’m currently learning ... Typescript
 - 👯 I’m looking to collaborate on ... Anything
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Website](https://leidesign.nl/)
