@@ -3,10 +3,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... School
-- 🌱 I’m currently learning ... Typescript
+- 🌱 I’m currently learning ... Github CoPilot
 - 👯 I’m looking to collaborate on ... Anything
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Website](https://leidesign.nl/)
+- 📫 How to reach me: ... not available at the moment
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am from the Netherlands
 
