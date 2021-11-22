@@ -1,6 +1,5 @@
 ### Here is What I'm Working On! 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... School
 - 🌱 I’m currently learning ... Github CoPilot
