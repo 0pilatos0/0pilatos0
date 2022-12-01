@@ -24,6 +24,7 @@ feel free to reach out to me on <a href="mailto:Paulvanderlei@hotmail.nl">MAIL
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=0pilatos0&count_private=true&show_icons=true&include_all_commits=true)
 
