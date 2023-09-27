@@ -28,6 +28,7 @@ feel free to reach out to me on <a href="mailto:Paulvanderlei@hotmail.nl">MAIL
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=0pilatos0&count_private=true&show_icons=true&include_all_commits=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0pilatos0&theme=default)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0pilatos0.0pilatos0)
