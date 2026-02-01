@@ -1,11 +1,16 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,14,16,18,20&text=Paul%20van%20der%20Lei&fontColor=ffffff&fontSize=36&fontAlign=50&fontAlignY=65&animation=twinkling" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,1,2,3,4&text=Paul%20van%20der%20Lei&fontColor=1a1a1a&fontSize=36&fontAlign=50&fontAlignY=65&animation=twinkling" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,14,16,18,20&text=Paul%20van%20der%20Lei&fontColor=ffffff&fontSize=36&fontAlign=50&fontAlignY=65&animation=twinkling" />
-</picture>
+```js
+/**
+ * @author Paul van der Lei
+ * @location Gorinchem, NL
+ * @role Fullstack Engineer
+ * @passion Crafting digital experiences
+ */
+```
 
 <p align="center">
-  <em>fullstack engineer crafting experiences</em>
+  <a href="https://paulvanderlei.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%24+whoami;fullstack+engineer+%40+WICS+Solutions" alt="Typing SVG" />
+  </a>
 </p>
 
 <br>
