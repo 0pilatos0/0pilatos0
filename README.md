@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,100:161b22&text=paul%20van%20der%20lei&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=55&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:ffffff,100:f0f0f0&text=paul%20van%20der%20lei&fontColor=1a1a1a&fontSize=40&fontAlign=50&fontAlignY=55&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,100:161b22&text=paul%20van%20der%20lei&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=55&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,14,16,18,20&text=paul%20van%20der%20lei&fontColor=ffffff&fontSize=36&fontAlign=50&fontAlignY=65&animation=twinkling" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,1,2,3,4&text=paul%20van%20der%20lei&fontColor=1a1a1a&fontSize=36&fontAlign=50&fontAlignY=65&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,14,16,18,20&text=paul%20van%20der%20lei&fontColor=ffffff&fontSize=36&fontAlign=50&fontAlignY=65&animation=twinkling" />
 </picture>
 
 <p align="center">
