@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://paulvanderlei.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%24+whoami;fullstack+engineer+%40+WICS+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%24+whoami;fullstack+engineer+%40+Davanti+WICS" alt="Typing SVG" />
   </a>
 </p>
 
