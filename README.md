@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,bun,graphql,postgres,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tanstack,nodejs,bun,graphql,php,symfony,java,spring,postgres,docker,jenkins,git&theme=dark" />
 </p>
 
 <br>
