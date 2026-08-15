@@ -15,8 +15,6 @@
   <a href="https://paulvanderlei.com">
     <!--gh-dark-mode-only-->
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F4633F&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%24+whoami;fullstack+engineer+%40+Davanti+WICS" alt="Typing SVG" />
-    <!--gh-light-mode-only-->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1C1A17&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%24+whoami;fullstack+engineer+%40+Davanti+WICS" alt="Typing SVG" />
   </a>
 </p>
 
