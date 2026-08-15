@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Paul van der Lei — Full-Stack Engineer — Gorinchem, NL" width="100%" />
+  <a href="https://paulvanderlei.com">
+    <img src="assets/header.svg" alt="Paul van der Lei — Full-Stack Engineer — Gorinchem, NL" width="100%" />
+  </a>
 </p>
 
 ```js
