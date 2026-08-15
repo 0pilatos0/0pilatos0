@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Paul van der Lei — Full-Stack Engineer — Gorinchem, NL">
+  <rect width="900" height="200" fill="#f4f2ec" />
+  <rect x="10" y="10" width="880" height="180" fill="none" stroke="#c73f20" stroke-width="3" />
+  <rect x="18" y="18" width="864" height="164" fill="none" stroke="#c73f20" stroke-width="1" opacity="0.4" />
+  <g stroke="#c73f20" stroke-width="2">
+    <path d="M4 10h12M10 4v12" />
+    <path d="M884 10h12M890 4v12" />
+    <path d="M4 190h12M10 184v12" />
+    <path d="M884 190h12M890 184v12" />
+  </g>
+  <text x="36" y="40" font-family="'Fira Code', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5" fill="#57534b">TECHNICAL PROFILE — GITHUB.COM/0PILATOS0</text>
+  <text x="36" y="74" font-family="'Fira Code', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="32" font-weight="700" letter-spacing="1.5" fill="#1c1a17">PAUL VAN DER LEI</text>
+  <line x1="36" y1="86" x2="356" y2="86" stroke="#c73f20" stroke-width="1.5" stroke-dasharray="6 4" />
+  <text x="36" y="112" font-family="'Fira Code', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="3" fill="#706b60">FULL-STACK ENGINEER — GORINCHEM, NL</text>
+  <text x="36" y="140" font-family="'Fira Code', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5" fill="#aca79a">BUILDING RELIABLE SOFTWARE FOR LOGISTICS &amp; OPERATIONS TEAMS</text>
+  <rect x="580" y="42" width="284" height="116" rx="6" fill="#1c1a17" />
+  <circle cx="600" cy="58" r="4" fill="#f4633f" />
+  <circle cx="614" cy="58" r="4" fill="#c73f20" />
+  <circle cx="628" cy="58" r="4" fill="#aca79a" />
+  <text x="596" y="96" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#f4633f">$</text>
+  <text x="610" y="96" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#f3f0e8">whoami</text>
+  <text x="610" y="122" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#706b60">paul van der lei</text>
+  <text x="596" y="148" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#f4633f">$</text>
+  <rect x="610" y="136" width="9" height="16" fill="#f4633f" />
+  <text x="584" y="174" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="9.5" letter-spacing="1" fill="#57534b">DRG. NO. 001 — REV. C</text>
+</svg>
