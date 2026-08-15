@@ -17,10 +17,9 @@
   <circle cx="600" cy="58" r="4" fill="#f4633f" />
   <circle cx="614" cy="58" r="4" fill="#c73f20" />
   <circle cx="628" cy="58" r="4" fill="#aca79a" />
-  <text x="596" y="96" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#f4633f">$</text>
-  <text x="610" y="96" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#f3f0e8">whoami</text>
-  <text x="610" y="122" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#706b60">paul van der lei</text>
-  <text x="596" y="148" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#f4633f">$</text>
-  <rect x="610" y="136" width="9" height="16" fill="#f4633f" />
+  <text x="596" y="98" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#f4633f">$</text>
+  <text x="610" y="98" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#f3f0e8">whoami</text>
+  <text x="596" y="132" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="14" fill="#f4633f">$</text>
+  <rect x="610" y="116" width="9" height="16" fill="#f4633f" />
   <text x="584" y="174" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="9.5" letter-spacing="1" fill="#57534b">DRG. NO. 001 — REV. C</text>
 </svg>
